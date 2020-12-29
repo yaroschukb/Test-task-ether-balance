@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/yaroschukb/Test-task-ether-balance/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/yaroschukb/Test-task-ether-balance/static/js/main.9f7b5730.chunk.js",
-    "main.js.map": "/yaroschukb/Test-task-ether-balance/static/js/main.9f7b5730.chunk.js.map",
-    "runtime-main.js": "/yaroschukb/Test-task-ether-balance/static/js/runtime-main.af0665e4.js",
-    "runtime-main.js.map": "/yaroschukb/Test-task-ether-balance/static/js/runtime-main.af0665e4.js.map",
-    "static/css/2.4d98ed14.chunk.css": "/yaroschukb/Test-task-ether-balance/static/css/2.4d98ed14.chunk.css",
-    "static/js/2.5e9a6959.chunk.js": "/yaroschukb/Test-task-ether-balance/static/js/2.5e9a6959.chunk.js",
-    "static/js/2.5e9a6959.chunk.js.map": "/yaroschukb/Test-task-ether-balance/static/js/2.5e9a6959.chunk.js.map",
-    "index.html": "/yaroschukb/Test-task-ether-balance/index.html",
-    "static/css/2.4d98ed14.chunk.css.map": "/yaroschukb/Test-task-ether-balance/static/css/2.4d98ed14.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/yaroschukb/Test-task-ether-balance/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.5e9a6959.chunk.js.LICENSE.txt": "/yaroschukb/Test-task-ether-balance/static/js/2.5e9a6959.chunk.js.LICENSE.txt"
+    "main.css": "/Test-task-ether-balance/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Test-task-ether-balance/static/js/main.9f7b5730.chunk.js",
+    "main.js.map": "/Test-task-ether-balance/static/js/main.9f7b5730.chunk.js.map",
+    "runtime-main.js": "/Test-task-ether-balance/static/js/runtime-main.27b29c08.js",
+    "runtime-main.js.map": "/Test-task-ether-balance/static/js/runtime-main.27b29c08.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/Test-task-ether-balance/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.aff5bcb2.chunk.js": "/Test-task-ether-balance/static/js/2.aff5bcb2.chunk.js",
+    "static/js/2.aff5bcb2.chunk.js.map": "/Test-task-ether-balance/static/js/2.aff5bcb2.chunk.js.map",
+    "index.html": "/Test-task-ether-balance/index.html",
+    "static/css/2.4d98ed14.chunk.css.map": "/Test-task-ether-balance/static/css/2.4d98ed14.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Test-task-ether-balance/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aff5bcb2.chunk.js.LICENSE.txt": "/Test-task-ether-balance/static/js/2.aff5bcb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af0665e4.js",
+    "static/js/runtime-main.27b29c08.js",
     "static/css/2.4d98ed14.chunk.css",
-    "static/js/2.5e9a6959.chunk.js",
+    "static/js/2.aff5bcb2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.9f7b5730.chunk.js"
   ]
