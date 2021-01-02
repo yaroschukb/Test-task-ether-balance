@@ -5,12 +5,12 @@ const columns = [
   {
     title: 'Token',
     dataIndex: 'name',
-    width: 250,
+    width: 300,
   },
   {
     title: 'Balance',
     dataIndex: 'balance',
-    width: 250
+    width: 300
   }
 ];
 
@@ -34,12 +34,12 @@ const TableOfTakens = ({result}) => {
     {
     key: '4',
     name: 'KickToken (KICK)',
-    balance:  Number(result.KICK/100000000).toLocaleString()
+    balance:  Number(result.KICK/Math.pow(10,8)).toLocaleString()
     },
     {
     key: '5',
     name: 'Sai Stablecoin (SAI)',
-    balance:  Number(result.SAI/Math.pow(10,18))
+    balance:  Number(result.SAI)/Math.pow(10,18)
     },
     {
     key: '6',

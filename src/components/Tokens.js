@@ -5,17 +5,7 @@ import TableOfTakens from './TableOfTakens';
 
 const Tokens = () => {  
 const [open, setOpen] = useState(false); // open/close table
-const [result, setResult] = useState({
-  "USDC": "",
-  "USDT": "",
-  "IDK": "",
-  "KICK": "",
-  "SAI": "",
-  "LPT": "",
-  "LRC": "",
-  "HEX": "",
-  "EBK": "",
-});
+const [result, setResult] = useState({});
 
   useEffect( () => {
     async function fetchData (){
